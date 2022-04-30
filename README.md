@@ -16,11 +16,9 @@ In order to access this repository, the user needs to clone it from GitHub using
 The links in the navigation at the top of the page can be clicked in order to jump to the corresponding section on the page. 
 
 For example, if "Social Media Marketing" in the navigation bar is clicked (as shown here), 
-    ``md
     ![The navigation bar is teal and says "Horiseon" on the left side. On the right side of the page, it says, "Search Engine Optimization, Online Reputation Management and Social Media Marketing."](assets/images/screenshot-1.png)
-    ```
+    
 the page will jump to the Social Media Marketing section. (As shown here.)
-    ``md
     ![The webpage says "Social Media Marketing" with a one sentence description underneath. There is a photo on the left side of the screen showing a group of people around a table discussing social media.](assets/images/screenshot-2.png)
 
 To view the deployed website, visit [https://kaylab78.github.io/horiseon-website/](https://kaylab78.github.io/horiseon-website/).
