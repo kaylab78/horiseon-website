@@ -4,15 +4,16 @@
 This is a website built for Horiseon, a digital marketing company. The website code has been updated to follow accessibility standards so that the website is optimized for search engines.
 
 ## Installation
+In order to access this repository, the user needs to clone it from GitHub using the command <samp>git clone git@github.com:kaylab78/horiseon-website.git</samp> in their command line interface.
 
 ## Usage
 
 ## Credits
 The original code for the project was cloned from Xander Rapstine at [https://github.com/coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram).
 
-## License
-MIT License
+The wording for the license on this project is from the MIT License outlined at [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
 
+## License
 Copyright (c) 2022 Kayla Backus
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
